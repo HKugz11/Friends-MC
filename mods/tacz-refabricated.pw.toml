@@ -1,0 +1,13 @@
+name = "TaCZ: Refabricated"
+filename = "tacz-refabricated-1.0.1-forge1.2.0-hotfix+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1j76DVHU/versions/Ma8Cqg9j/tacz-refabricated-1.0.1-forge1.2.0-hotfix%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "967a67aa29baccb441427f2556a845eec6f5f547f54070544243ae0e545e884fc7866f67be607170ada770326a8d503f526c514d1dde67737b3a823db953cda4"
+
+[update]
+[update.modrinth]
+mod-id = "1j76DVHU"
+version = "Ma8Cqg9j"

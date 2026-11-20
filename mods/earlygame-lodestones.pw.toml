@@ -1,0 +1,13 @@
+name = "Earlygame Lodestones"
+filename = "accessible-lodestones-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TLHttyR8/versions/14Zxkfwp/accessible-lodestones-v1.0.jar"
+hash-format = "sha512"
+hash = "60daa9dccf37dab88655a206e7b22ba6d782106d786cf484f5d0682e0b98be056c292684ebce23b24b5c5d58cd5130043b6b761e319ce3cd477679790329ad51"
+
+[update]
+[update.modrinth]
+mod-id = "TLHttyR8"
+version = "14Zxkfwp"
