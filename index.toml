@@ -6,6 +6,11 @@ hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "d37398ef80a4645987209f96d9d1ddf390ba06f2546b6ce246d3ccd197054417"
+metafile = true
+
+[[files]]
 file = "mods/bren.pw.toml"
 hash = "b10487ff11973ec625cd1f968ab59f0927a762694a0b5ff52c695b6a7096c5b2"
 metafile = true
@@ -23,6 +28,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "3542b275da06cfc103636f28171acc954792371dfbd308c58851335f474e4a42"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "e19d7296a530e9489f08a72fd03bc86ead52c45cac5e84a791679a34f3bd1fd3"
 metafile = true
 
 [[files]]
@@ -76,8 +91,18 @@ hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4da3ad4943ca6cb4534f85bd75211de869e0b77a71edc8bd774470849a91b7fa"
 metafile = true
 
 [[files]]
@@ -111,6 +136,11 @@ hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7514afa6b2998c92b98924f42bce3c8d76c32a39d7a42ef3bff254cd06ef0bf0"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "c48a49756bb02d601878be749bce3279ce71522ecb9d7a6c3e1eca9649045142"
 metafile = true
@@ -118,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "c420e099350ec6a40c9be7aa4c1acf35b91b7f5e5f17ea9319100535445ab7b2"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "b9b8556a8811636a5d29a99b4d5d6ef049fc8b219babf25ddfd848cae9c1dec7"
 metafile = true
 
 [[files]]
@@ -133,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
 hash = "680f800b6aea60ce028ae39872baba1d37331ebe6c7ce066f4168a2307e5b3cc"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "a03fffdf94e7a7d6ac51088c04b15616cfb26669c79667cae01a8a88064634b9"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
 
 [[files]]
@@ -171,6 +216,16 @@ hash = "f88c8cf3a0254074fc3bf71791dd276b83446fe275de55bfa25fd7fc2a1e4665"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "1cfff3ee1043091e416b79f0f658e690521a59c89fd51668ce02f19f721519dc"
+metafile = true
+
+[[files]]
 file = "mods/tacz-refabricated.pw.toml"
 hash = "1a2a365a425ed7d623a54a6c08ec892f0bf8c046008d1b0f47906d2fdb82577d"
 metafile = true
@@ -178,6 +233,16 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "ce8868bbecfc78d470fe88663e4128751a4282968adaa5e5676544ecabab6355"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "ed83bb78d1d849e5e94d2bc0fdce9122107a4c2cc9ae3a724ffbd83cbe3ca42f"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "82d7a3b521d4c249b424787cd5661f29088b54c7a3616df82a4808aec7e284cd"
 metafile = true
 
 [[files]]
@@ -198,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "056652d48ab3934e87ebcdef25306d3a7a564fab873c0c826ba8403f23ca99d7"
 metafile = true
 
 [[files]]
@@ -233,4 +303,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "a3f44136de67f6082858d7f21dd576d93874f0225b91bff2a4e13fe90877dde7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "c88e67b13d956c65d84f07d238caf8f8f5ebee8790c9d1ff43013045dda42601"
 metafile = true
