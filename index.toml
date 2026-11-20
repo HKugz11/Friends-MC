@@ -6,6 +6,11 @@ hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
 
 [[files]]
+file = "mods/bren.pw.toml"
+hash = "b10487ff11973ec625cd1f968ab59f0927a762694a0b5ff52c695b6a7096c5b2"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
 metafile = true
@@ -13,6 +18,21 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "4b0512c5b85d3439f6d1ac65aec4be2f56754c26f031da864b6c2c498e9aa732"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
@@ -33,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e9b48a41987c854dee8a24f4797d7619a6e8ca10a883ad2067f56e11bce6ede4"
+metafile = true
+
+[[files]]
+file = "mods/faunify.pw.toml"
+hash = "fb9f4d4fa2cf8546217b870dc73250772eea2dabdab5308345767a8e0123fb94"
 metafile = true
 
 [[files]]
@@ -81,6 +106,26 @@ hash = "c48a49756bb02d601878be749bce3279ce71522ecb9d7a6c3e1eca9649045142"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "c420e099350ec6a40c9be7aa4c1acf35b91b7f5e5f17ea9319100535445ab7b2"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "a050490e6e461915f15eaa62b1d5f54781103f19d5389752bfd6a521364476b6"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "680f800b6aea60ce028ae39872baba1d37331ebe6c7ce066f4168a2307e5b3cc"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
@@ -111,8 +156,23 @@ hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "f88c8cf3a0254074fc3bf71791dd276b83446fe275de55bfa25fd7fc2a1e4665"
+metafile = true
+
+[[files]]
 file = "mods/tacz-refabricated.pw.toml"
 hash = "1a2a365a425ed7d623a54a6c08ec892f0bf8c046008d1b0f47906d2fdb82577d"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "ce8868bbecfc78d470fe88663e4128751a4282968adaa5e5676544ecabab6355"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "419eef46a9dcaa8e79c830d7f146e5c4cabe52e10a6f12011a7302557a51924f"
 metafile = true
 
 [[files]]
@@ -123,4 +183,44 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "addda4a32aaae12b4a512cd724ebdf64e6f4f499f1ab6a09ad7239433336f834"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "82657b4dea64f107e9e50e91324b17aa1e1ea2055f9ee5270ed2788d82f6646a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "5add00a6b0f928d4a2ed9fd34f55fc533332f237d3d76c728c918b2c74e31d1a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "81856f95f3e0d336c755d5415580094924b53d3a86ed042e6dbf2deeec448f72"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "53c40612eaf08e752c90fafbacd0b573c1fbb9ec5826b66608019d7e84b74d43"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "4b26e9295dc5f977d68a6d4c4226ed0de542419e5a50a2cb742451230aadbe78"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "a55e6247a74bb3e5e13358f60918c06eeede47832602925c174b1a1511daec07"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "a3f44136de67f6082858d7f21dd576d93874f0225b91bff2a4e13fe90877dde7"
 metafile = true
