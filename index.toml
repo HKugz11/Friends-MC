@@ -91,6 +91,11 @@ hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "51e4a6f7348bb23660a64a43d5e4142486a2984085ec562dbf558fa4f9489719"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "5ab851c62a8cc64926e92372d741124990fff12c1baeb40cf9e24f3b841537a0"
 metafile = true
