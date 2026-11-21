@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
@@ -38,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "e19d7296a530e9489f08a72fd03bc86ead52c45cac5e84a791679a34f3bd1fd3"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "4b0512c5b85d3439f6d1ac65aec4be2f56754c26f031da864b6c2c498e9aa732"
 metafile = true
 
 [[files]]
